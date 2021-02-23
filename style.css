@@ -1,0 +1,142 @@
+.navbarone{
+    height: 25px;
+    text-decoration: none;
+    
+}
+.lisone{
+    word-spacing: 50px;
+    background-color: rgba(0, 0, 0, 0.431);
+    font-family: 'Courier New', Courier, monospace;
+    text-decoration: whitesmoke;
+    padding-left: 150px;
+    height: 35px;
+    /* width: 1500px;
+    position: fixed; */
+    
+}
+.paratwo{
+    background-color: rgba(26, 99, 195, 0.555);
+    height: 25px;
+    margin-top: -12px;
+    /* padding-top: 50px; */
+}
+
+.navtwo{
+    /* background-color:rgb(6, 98, 129); */
+    
+    padding-left: 500px;
+    
+    
+}
+.navthree{
+    background-color: lightgray;
+    margin-top: -12px;
+    height: 25px;
+}
+
+.parathree{
+    padding-left: 500px;
+}
+.iphone{
+    font-size: 45px;
+    /* font-size: large; */
+    font-family: Arial, Helvetica, sans-serif;
+    padding-left: 600px;
+    text-decoration: none;
+    color: black;
+    
+    
+}
+.blast{
+    margin-top: -35px;
+    font-size: 25px;
+    padding-left: 625px;
+    text-decoration: none;
+    color: black;
+}
+.from{
+    /* margin-top: -35px; */
+    padding-left: 575px;
+    color: grey;
+    font-size: 25px;
+    text-decoration: none;
+}
+.buy{
+    padding-left: 475px;
+    color: grey;
+    font-size: 25px;
+    text-decoration: none;
+
+}
+.learn{
+    padding-left: 575px;
+    color: rgb(15, 143, 248);
+    font-size: 25px;
+    text-decoration: none;
+    /* word-spacing: 50px; */
+}
+.by{
+    padding-left: 105px;
+    color: rgb(15, 143, 248);
+    font-size: 25px;
+    text-decoration: none;
+}
+.picone{
+    padding-left: 450px;
+}
+.pfour{
+    padding-left: 150px;
+    padding-right: 150px;
+}
+.parafour{
+     color: grey;
+     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+     /* background-color: lightgray; */
+}
+.one{
+    align-items: left;
+}
+
+.listone{
+    padding-left: 25px;
+
+}
+
+.listtow{
+    padding-left: 50px;
+   
+
+}
+.divlast{
+    padding-left: 150px;
+    margin-left: 15px;
+    color: rgba(160, 128, 128, 0.835);
+    text-decoration: none;
+}
+.divone{
+    margin-left: 15px;
+    width: 200px;
+    color: grey;
+    text-decoration: none;
+
+}
+.divtwo{
+    width: 200px;
+    text-decoration: none;
+}
+.divthree{
+    width: 200px;
+}
+.divfour{
+    width: 200px;
+}
+.divfive{
+    width: 200px;
+}
+#creative{
+    color: grey;
+}
+.footer{
+    color: grey;
+  text-decoration: none;
+}
